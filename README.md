@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, welcome to my repositories where I leave stuff that I have learned 👋
 
 <!--
 **riskersreal/riskersreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
